@@ -1,0 +1,17 @@
+h1 {
+    color: aquamarine;
+    font-size: 64 px;
+}
+
+.container {
+    border: 2px blue solid;
+    display: block;
+    margin-top: 24px;
+    width: 1024px;
+    height: 250px;
+    color: wheat ;
+}
+
+body {
+    background-color: blueviolet;
+}
